@@ -1,0 +1,6 @@
+projectKey=Viva-phanic
+serverUrl=http://localhost:9099
+serverVersion=10.6.0.92116
+dashboardUrl=http://localhost:9099/dashboard?id=Viva-phanic
+ceTaskId=c3728a4e-b374-43d4-b9b0-0b1906ddbc5b
+ceTaskUrl=http://localhost:9099/api/ce/task?id=c3728a4e-b374-43d4-b9b0-0b1906ddbc5b
